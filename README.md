@@ -9,10 +9,9 @@
 
 ## Results
 ### Affect on District Summary 
-![Screen Shot 2022-01-07 at 7 01 32 PM](https://user-images.githubusercontent.com/94096530/148629244-f923dc61-6b70-49f2-b544-416a9223848c.png)
 #### After we removed all math and reading scores of ninth graders from Thomas High School, there are slight changes in our district summary data frame.
 ![Screen Shot 2022-01-07 at 7 05 04 PM](https://user-images.githubusercontent.com/94096530/148629413-4b265109-bc96-40f5-96a2-645da095730d.png)
-#### We can see that the number of total students drops from 39,170 to 38,709 students, meaning there are a total of 461 ninth grade students at Thomas High School whose grades were omitted. The total budget was unaffected. The Average Math Score and Average Reading Score remained the same. The Passing Percentage for Math decreased by 0.12 percent. The Passing Percentage for Reading remained the same. Finally, the Overall Passing Percentage 
+#### We can see that the number of total students drops from 39,170 to 38,709 students, meaning there are a total of 461 ninth grade students at Thomas High School whose grades were omitted. The total budget was unaffected. The Average Math Score, Average Reading Score, % Passing Math, and % Passing Reading remained the same. However, the overall passing percentage decreased.  
 
 ### Affect on School Summary
 ![Screen Shot 2022-01-07 at 7 17 13 PM](https://user-images.githubusercontent.com/94096530/148629732-9e63117c-ea2e-47df-a823-0b91d8ef598e.png)
